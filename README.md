@@ -1,4 +1,4 @@
-silex-hello
+silex-hello (Hello Word in Silex)
 ===========
 
-Hello Word example of using the Micro Framework Silex !
+Example of Hello World using the Micro Framework Silex !
